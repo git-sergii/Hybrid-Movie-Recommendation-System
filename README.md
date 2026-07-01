@@ -161,4 +161,4 @@ Add your preferred license here, such as MIT or Apache-2.0.
 
 **Sergii Iuriev**
 
-Computational Research Scientist | Data Scientist |  AI/ML Engineer
+Data Scientist | AI/ML Developer | Software Engineer
