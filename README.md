@@ -120,6 +120,10 @@ Add your preferred license here, such as MIT or Apache-2.0.
 - `recosystem` for matrix factorization.
 - `shiny` for the interactive web app.
 
+### Demo
+
+![Demo](screenshots/HybridMovieRecommendationSystem1low.gif)
+
 ### Main Screen
 
 ![Main Screen](screenshots/MainScreen.png)
